@@ -3,6 +3,7 @@
 ## Hi there 👋
 
 ##🌍 Expert in Remote Sensing, Cartography, and Geovisualisation
+
 ##📊 Currently studying Geocomputing and Geospatial Data Science
 
 <!--
