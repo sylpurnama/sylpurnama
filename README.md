@@ -1,4 +1,4 @@
-![False Color Composite](https://github.com/sylpurnama/-Mangrove-Extraction-from-LULC-Classification-using-Sentinel-2-Imagery-/blob/main/1.png)
+![False Color Composite]([https://github.com/sylpurnama/-Mangrove-Extraction-from-LULC-Classification-using-Sentinel-2-Imagery-/blob/main/1.png](https://github.com/sylpurnama/sylpurnama/blob/main/github-header-image.png))
 
 ## Hi there 👋
 
