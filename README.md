@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 ##🌍 Expert in Remote Sensing, Cartography, and Geovisualisation
-$$📊 Currently studying Geocomputing and Geospatial Data Science
+##📊 Currently studying Geocomputing and Geospatial Data Science
 
 <!--
 **sylpurnama/sylpurnama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
